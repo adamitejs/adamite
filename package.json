@@ -5,6 +5,7 @@
   "description": "Adamite meta-repo.",
   "license": "MIT",
   "devDependencies": {
+    "meta-npm": "^1.0.3",
     "meta-yarn": "^1.0.0"
   }
 }
