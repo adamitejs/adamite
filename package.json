@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@adamite/meta",
+  "version": "1.0.0",
+  "description": "Adamite meta-repo.",
+  "license": "MIT",
+  "devDependencies": {
+    "meta-yarn": "^1.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "relay-client": "git@github.com:adamitejs/relay-client.git",
+    "relay-server": "git@github.com:adamitejs/relay-server.git",
+    "service-auth": "git@github.com:adamitejs/service-auth.git",
+    "service-database": "git@github.com:adamitejs/service-database.git",
+    "api": "git@github.com:adamitejs/api.git",
+    "sdk": "git@github.com:adamitejs/sdk.git"
+  }
+}
