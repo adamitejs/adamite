@@ -5,6 +5,7 @@
     "service-auth": "git@github.com:adamitejs/service-auth.git",
     "service-database": "git@github.com:adamitejs/service-database.git",
     "api": "git@github.com:adamitejs/api.git",
-    "sdk": "git@github.com:adamitejs/sdk.git"
+    "sdk": "git@github.com:adamitejs/sdk.git",
+    "react": "git@github.com:adamitejs/react.git"
   }
 }
