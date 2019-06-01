@@ -3,6 +3,8 @@ relay-client
 relay-server
 service-auth
 service-database
+service-functions
 api
 sdk
 react
+console
