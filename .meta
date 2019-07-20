@@ -5,9 +5,11 @@
     "service-auth": "git@github.com:adamitejs/service-auth.git",
     "service-database": "git@github.com:adamitejs/service-database.git",
     "service-functions": "git@github.com:adamitejs/service-functions.git",
+    "service-storage": "git@github.com:adamitejs/service-storage.git",
     "api": "git@github.com:adamitejs/api.git",
     "sdk": "git@github.com:adamitejs/sdk.git",
     "react": "git@github.com:adamitejs/react.git",
-    "console": "git@github.com:adamitejs/console.git"
+    "console": "git@github.com:adamitejs/console.git",
+    "cli": "git@github.com:adamitejs/cli.git"
   }
 }
