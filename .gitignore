@@ -4,6 +4,7 @@ relay-server
 service-auth
 service-database
 service-functions
+service-storage
 api
 sdk
 react

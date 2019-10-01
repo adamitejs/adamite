@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "console"
+    },
+    {
+      "path": "react"
+    },
+    {
+      "path": "relay-client"
+    },
+    {
+      "path": "relay-server"
+    },
+    {
+      "path": "sdk"
+    },
+    {
+      "path": "service-auth"
+    },
+    {
+      "path": "service-database"
+    },
+    {
+      "path": "service-functions"
+    },
+    {
+      "path": "service-storage"
+    }
+  ]
+}
