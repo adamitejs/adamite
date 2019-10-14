@@ -10,6 +10,7 @@
     "react": "git@github.com:adamitejs/react.git",
     "toolbox": "git@github.com:adamitejs/toolbox.git",
     "console": "git@github.com:adamitejs/console.git",
-    "cli": "git@github.com:adamitejs/cli.git"
+    "cli": "git@github.com:adamitejs/cli.git",
+    "docs": "git@github.com:adamitejs/docs.git"
   }
 }
